@@ -1,6 +1,6 @@
 # Welcome to My Personal Portfolio!
 
-This repository is where I build my personal portfolio using skills that I learned from my web development class. 
+This repository is where I build my personal portfolio using skills that I learned from my web development class at UC San Diego. 
 
 In my portfolio, you'll learn who I am, my background and skills, and the experiences that I have under my belt.
 
